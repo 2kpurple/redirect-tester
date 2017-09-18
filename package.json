@@ -4,6 +4,8 @@
   "private": true,
   "homepage": "https://2kpurple.github.io/redirect-tester",
   "dependencies": {
+    "@types/request": "^2.0.3",
+    "axios": "^0.16.2",
     "gh-pages": "^1.0.0",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
